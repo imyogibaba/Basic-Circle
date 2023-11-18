@@ -1,0 +1,37 @@
+import turtle
+
+wn = turtle.Screen()
+
+wn.bgcolor("Green")
+wn.title("My turtle")
+
+S = turtle.Turtle()
+
+for i in range(50):
+  S.forward(50)
+  S.right(50)
+  S.right(50)
+  S.left(50)
+  S.left(50)
+  S.right(50)
+  S.right(50)
+  S.left(50)
+  S.right(50)
+  S.left(50)
+  S.left(50)
+  S.right(50)
+S.left(50)
+S.right(50)
+S.left(50)
+S.left(50)
+S.right(50)
+S.left(50)
+S.right(50)
+S.left(50)
+S.left(50)
+S.right(50)
+S.left(50)
+S.right(50)
+S.left(50)
+S.left(50)
+S.right(50)
